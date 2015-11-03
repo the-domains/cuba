@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[cuba]]></title>
+        <description><![CDATA[cuba]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 Nov 2015 00:26:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cuba Itineraries]]></title>
+            <description><![CDATA[<article><h1>Cuba Itineraries</h1><p>Exploring Cuba can be bewitching and bewildering, and you can't cover the whole country in a single trip. Our Havana Grand Tour concentrates on the capital's main sights, while our other suggested routes focus on getting the most out of the country when you venture beyond Havana.</p><img src="http://www.roughguides.com/wp-content/uploads/2013/08/03_Cuba_Itineraries-01-opt-175x100.png"></article>]]></description>
+            <link>http://www.roughguides.com/destinations/central-america-and-the-caribbean/cuba/itineraries/#</link>
+            <guid isPermaLink="false">7ad308d0-48a3-42e5-8fa6-b7f303a899c4</guid>
+            <pubDate>Tue, 03 Nov 2015 00:26:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
